@@ -12,6 +12,7 @@ const Home = () => {
   return (
     <>
       <Container class1="home-wrapper-1 py-5">
+      <h1>Home page</h1>
         <div className="row">
           <div className="col-6">
             <div className="main-banner position-relative">
